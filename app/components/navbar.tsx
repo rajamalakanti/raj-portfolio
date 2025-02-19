@@ -1,7 +1,5 @@
 import { Inter } from "next/font/google";
 import Link from "next/link";
-import { BsLinkedin } from "react-icons/bs";
-import { BsGithub } from "react-icons/bs";
 
 const inter = Inter({
   subsets: ["latin"],

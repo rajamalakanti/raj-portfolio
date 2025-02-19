@@ -1,11 +1,7 @@
-import { Bonheur_Royale, Geist_Mono, Inter } from "next/font/google";
+import { Geist_Mono, Inter } from "next/font/google";
 import { FaReact, FaNodeJs, FaDocker, FaPython, FaGitAlt, FaJava, FaAws, FaLinux } from "react-icons/fa";
-import { SiMongodb, SiNextdotjs, SiFastapi, SiJavascript, SiScikitlearn, SiVercel, SiLangchain, SiGooglecloud, SiTypescript, SiTailwindcss, SiGraphql, SiPostgresql, SiTensorflow, SiPytorch, SiRedis, SiSupabase, SiPrisma, SiTerraform, SiFlask, SiDjango, SiCplusplus, SiC, SiExpress, SiMysql, SiRedux, SiOpenai, SiSelenium, SiPostman, SiApachespark, SiSpring, SiSpringboot, SiZod, SiSentry, SiD3Dotjs, SiJenkins, SiNginx, SiCaddy } from "react-icons/si";
+import { SiMongodb, SiNextdotjs, SiFastapi, SiJavascript, SiScikitlearn, SiVercel, SiLangchain, SiGooglecloud, SiTypescript, SiTailwindcss, SiPostgresql, SiTensorflow, SiPytorch, SiRedis, SiSupabase, SiPrisma, SiTerraform, SiFlask, SiDjango, SiCplusplus, SiC, SiExpress, SiMysql, SiRedux, SiOpenai, SiSelenium, SiPostman, SiApachespark, SiSpring, SiSpringboot, SiZod, SiSentry, SiD3Dotjs, SiJenkins, SiNginx, SiCaddy } from "react-icons/si";
 
-const bonheurRoyale = Bonheur_Royale({
-  subsets: ["latin"],
-  weight: "400",
-});
 
 const geistMono = Geist_Mono({
   subsets: ["latin"],

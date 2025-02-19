@@ -1,13 +1,8 @@
-import { Bonheur_Royale, Geist_Mono, Inter } from "next/font/google";
+import { Geist_Mono, Inter } from "next/font/google";
 import { JSX } from "react";
-import { FaReact, FaNodeJs, FaDocker, FaPython, FaGithub, FaExternalLinkAlt, FaAws } from "react-icons/fa";
+import { FaReact, FaNodeJs, FaDocker, FaPython, FaExternalLinkAlt, FaAws } from "react-icons/fa";
 import { SiMongodb, SiNextdotjs, SiFastapi, SiScikitlearn, SiLangchain, SiGooglecalendar, SiWebrtc, SiRedis, SiPostgresql, SiDjango, SiTailwindcss, SiTypescript } from "react-icons/si";
 import './projects.css';
-
-const bonheurRoyale = Bonheur_Royale({
-  subsets: ["latin"],
-  weight: "400",
-});
 
 const geistMono = Geist_Mono({
   subsets: ["latin"],

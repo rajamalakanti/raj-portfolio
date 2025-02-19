@@ -1,10 +1,5 @@
 import { Bonheur_Royale, Geist_Mono, Inter } from "next/font/google";
-import { SiMeta, SiTesla, SiGoogle } from "react-icons/si";
 
-const bonheurRoyale = Bonheur_Royale({
-  subsets: ["latin"],
-  weight: "400",
-});
 
 const geistMono = Geist_Mono({
   subsets: ["latin"],

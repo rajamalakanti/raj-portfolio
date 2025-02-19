@@ -1,9 +1,4 @@
-import { Poppins, Geist_Mono, Inter } from "next/font/google";
-
-const poppins = Poppins({
-  subsets: ["latin"],
-  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
-});
+import { Geist_Mono, Inter } from "next/font/google";
 
 const geistMono = Geist_Mono({
   subsets: ["latin"],
