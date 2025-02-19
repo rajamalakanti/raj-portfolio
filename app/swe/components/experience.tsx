@@ -1,4 +1,4 @@
-import { Bonheur_Royale, Geist_Mono, Inter } from "next/font/google";
+import { Geist_Mono, Inter } from "next/font/google";
 
 
 const geistMono = Geist_Mono({
